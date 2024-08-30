@@ -19,6 +19,8 @@ public class Main {
 
           System.out.println("Ola " + nomeCliente + ", obrigado por criar uma conta em nosso banco, sua agencia é: " + agencia + ", o numero da sua conta é: " + numero + " e seu saldo é de: " + saldo + " ja esta disponivel para saque.");
 
+          //TODO: FINALIZADO
+
 
      }
 }
